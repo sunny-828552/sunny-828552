@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunny-828552
+- 👋 Hi, I’m Sunny Kumar
 - 👀 I’m interested in Performance Engineering
 - 🌱 I’m currently learning Python & JMeter
 - 📫 How to reach me ... No need
