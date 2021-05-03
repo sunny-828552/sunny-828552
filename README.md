@@ -1,9 +1,9 @@
 ## Hi there, I'm Sunny! 👋
 <br />
 
-- 👀 I’m interested in Performance Engineering
-- 🌱 I’m currently learning Python & JMeter
-- 📫 How to reach me ... No need
+- 👀 I’m interested in **Performance Engineering**
+- 🌱 I’m currently learning **Python & JMeter**
+- 📫 How to reach me ... **No need**
 - 😄  Pronouns: **He/Him**
 
 <!---
