@@ -1,5 +1,4 @@
 ## Hi there, I'm Sunny! 👋
-
 <br />
 
 - 👀 I’m interested in Performance Engineering
